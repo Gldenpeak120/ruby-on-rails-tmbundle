@@ -1,1 +1,1 @@
-ultralytics 8.0.238 Explorer Ask AI feature and fixes (#7408)
+Fix RTDETR generate anchor grid out of boundary (#7247)
